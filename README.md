@@ -7,3 +7,5 @@
 **House Price Prediction**: A model to predict house prices, based on the Kaggle dataset
 
 **Loan Default Prediction**: A XGBoost model to predict proabability of defaults
+
+**Sales Data analysis using Regression**: Builds a multiple regression model to extract business insights from the Kaggles advertising dataset
